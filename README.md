@@ -2,4 +2,5 @@
 
 1. AWS parameter Store
 2. SQS Consumer
-3. SQS Producer
+3. TODO -> SQS Producer 
+4. TODO -> S3 reading bucket
